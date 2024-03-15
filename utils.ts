@@ -229,7 +229,7 @@ export const EAS_CHAIN_CONFIGS: EASChainConfig[] = [
     subdomain: "scroll-sepolia.",
     version: "1.3.0",
     contractAddress: "0xaEF4103A04090071165F78D45D83A0C0782c2B2a",
-    schemaRegistryAddress: "0x55D26f9ae0203EF95494AE4C170eD35f4Cf77797",
+    schemaRegistryAddress: "0xb728912607b4928f531b59c612a0453e93937e4d2e5ad3217c10fa49d1a723af",
     contractStartBlock: 2436100,
     etherscanURL: "https://sepolia.scrollscan.com/",
     rpcProvider: `https://sepolia-rpc.scroll.io/`,
